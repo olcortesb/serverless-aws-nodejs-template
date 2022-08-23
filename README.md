@@ -37,9 +37,10 @@ aws-cli/2.4.2
 
 - Downloas this repo 
 - Deploy
-````
+```
 sls deploy --aws-profile nombre-de-nuestro-profile --stage dev
 ```
+
 - Call lambda function
 ```
 serverless invoke --function hello --aws-profile name-you-profile
