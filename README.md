@@ -1,10 +1,9 @@
-# Template for simple lambda serverless framework deploy
+# Template for simple lambda *serverless framework* deploy
 
 ## Summary
 A simple template with a single lambda prepared for deploy and test the configurations and basic permision deploy.
 
 ## Prerequisites
-
 
 - Node.js
 ```
@@ -35,8 +34,8 @@ aws-cli/2.4.2
 
 ## Usage
 
-- Downloas this repo 
-- Deploy
+- Download this repository
+- Deploy the lambda
 ```
 sls deploy --aws-profile nombre-de-nuestro-profile --stage dev
 ```
