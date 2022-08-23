@@ -35,6 +35,9 @@ aws-cli/2.4.2
 ## Usage
 
 - Download this repository
+```
+git clone git@github.com:olcortesb/serverless-aws-nodejs-template.git
+```
 - Deploy the lambda
 ```
 sls deploy --aws-profile nombre-de-nuestro-profile --stage dev
