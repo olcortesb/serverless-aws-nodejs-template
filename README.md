@@ -36,6 +36,7 @@ aws-cli/2.4.2
 
 - Download this repository
 ```
+# by ssh for example
 git clone git@github.com:olcortesb/serverless-aws-nodejs-template.git
 ```
 - Deploy the lambda
